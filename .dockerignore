@@ -1,0 +1,15 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environments
+venv/
+.env
+
+# FastAPI specific
+*.log
+*.db
+*.sqlite3
